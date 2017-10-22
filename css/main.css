@@ -1,0 +1,154 @@
+body{
+    font-family: 'Arvo', serif;
+}
+.line{
+    background-color: black;
+    height: 7px;
+    width: 85px;
+    position: absolute;
+    top: 60px;
+}
+.general{
+    display: flex;
+}
+/* img 1 */
+.blockImgOne {
+    background-image: url("http://ortodonciaperezvarela.com/wp-content/uploads/2016/08/belleza-amberheard-la-vanguardia-1024x683.jpg");
+    background-size: 250px 200px;
+    background-position: 200px 0px;
+    width: 200px;
+    height: 200px;
+    filter: grayscale(60%);
+    margin: 20px;
+}
+.blockImgOne:hover{
+    transition: 1s;
+    filter: grayscale(0);
+    border-radius: 20px 20px 20px 20px;
+}
+.content p{
+    position: absolute;
+    top: 240px;
+    left: 80px;
+    color: white;
+    font-family: 'Arvo', serif;    
+}
+/* img 2 */
+.blockImgTwo {
+    background-image: url("http://1.bp.blogspot.com/-9EcR6NvLHbQ/Vdy25Sp_fcI/AAAAAAAAA7s/7g-bQ2hcwIM/s1600/29-samantha-john-620x465.jpg");
+    background-size: 250px 200px;
+    background-position: 220px 0px;
+    width: 200px;
+    height: 200px;
+    filter: grayscale(60%);
+    margin: 20px;
+}
+.blockImgTwo:hover{
+    transition: 1s;
+    filter: grayscale(0);
+    border-radius: 20px 20px 20px 20px;
+}
+.content2 p{
+    position: absolute;
+    top: 240px;
+    left: 320px;
+    color: white;
+    font-family: 'Arvo', serif
+}
+/* img 3 */
+.blockImgThree {
+    background-image: url("http://cdn2.actitudfem.com/media/files/1__46.jpg");
+    background-size: 250px 200px;
+    background-position: 200px 0px;
+    width: 200px;
+    height: 200px;
+    filter: grayscale(60%);
+    margin: 20px;
+}
+.blockImgThree:hover{
+    transition: 1s;
+    filter: grayscale(0);
+    border-radius: 20px 20px 20px 20px;
+}
+.content3 p{
+    position: relative;
+    bottom: 50px;
+    left: 70px;
+    color: white;
+    font-family: 'Arvo', serif
+}
+/* img 4 */
+.blockImgFour {
+    position: absolute;
+    left: 8px;
+    bottom:110px;
+    background-image: url("https://static.iris.net.co/fucsia/upload/images/2017/2/17/76685_1.jpg");
+    background-size: 350px 200px;
+    background-position: 265px 0px;
+    width: 200px;
+    height: 200px;
+    filter: grayscale(60%);
+    margin: 20px;
+}
+.blockImgFour:hover{
+    transition: 1s;
+    filter: grayscale(0);
+    border-radius: 20px 20px 20px 20px;
+}
+.content4 p{
+    position: relative;
+    top: 430px;
+    right: 650px;
+    color: white;
+    font-family: 'Arvo', serif
+}
+/* imagen 5 */
+.blockImgFive {
+    position: absolute;
+    left: 248px;
+    bottom:110px;
+    background-image: url("https://www.okchicas.com/wp-content/uploads/2016/01/Fotógrafa-rumana-capta-la-belleza-en-más-de-45-países-27-1-730x487.jpg");
+    background-size: 300px 200px;
+    background-position: 250px 0px;
+    width: 200px;
+    height: 200px;
+    filter: grayscale(60%);
+    margin: 20px;
+}
+.blockImgFive:hover{
+    transition: 1s;
+    filter: grayscale(0);
+    border-radius: 20px 20px 20px 20px;
+}
+.content5 p{
+    position: relative;
+    top: 430px;
+    right: 545px;
+    color: white;
+    font-family: 'Arvo', serif
+}
+/* imagen 6 */
+.blockImgSix {
+    position: absolute;
+    left: 488px;
+    bottom:110px;
+    background-image: url("https://www.okchicas.com/wp-content/uploads/2015/04/mujeres-de-todos-los-pa%C3%ADses-8.jpg");
+    background-size: 300px 200px;
+    background-position: 250px 0px;
+    width: 200px;
+    height: 200px;
+    filter: grayscale(60%);
+    margin: 20px;
+}
+.blockImgSix:hover{
+    transition: 1s;
+    filter: grayscale(0);
+    border-radius: 20px 20px 20px 20px;
+}
+.content6 p{
+    position: relative;
+    top: 430px;
+    right: 437px;
+    color: white;
+    font-family: 'Arvo', serif
+}
